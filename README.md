@@ -1,0 +1,1 @@
+This project is released under the Unlicense. Noah Betim Sabaj is the sole original creator of Forum.
